@@ -4,6 +4,11 @@ Welcome to **Dicee**, a fun and interactive two-player dice game built with HTML
 
 > 🎯 “Now you’re no longer required to carry a coin to decide your fate!”
 
+ 🌐 GitHub Pages Hosting
+This project is live at:
+🔗https://om-singh-81.github.io/DICEE-THE-DECIDER/
+
+
 ---
 
 ## 🚀 Features
@@ -35,19 +40,19 @@ Text Manipulation and the Text Content Property
 ---
 
 ## 📂 Folder Structure
-```bash
-dice-game/
-├── images/
-│ ├── dice1.png
-│ ├── dice2.png
-│ ├── dice3.png
-│ ├── dice4.png
-│ ├── dice5.png
-│ └── dice6.png
-├── index.html # Main HTML file
-├── styles.css # Styling for layout and visuals
-├── index.js # Game logic and interaction
-├── README.md # Project information
+
+        dice-game/
+        ├── images/
+        │ ├── dice1.png
+        │ ├── dice2.png
+        │ ├── dice3.png
+        │ ├── dice4.png
+        │ ├── dice5.png
+        │ └── dice6.png
+        ├── index.html # Main HTML file
+        ├── styles.css # Styling for layout and visuals
+        ├── index.js # Game logic and interaction
+        ├── README.md # Project information
 
 
 ---
@@ -69,11 +74,7 @@ dice-game/
          start index.html  # (Windows)
          open index.html   # (Mac)
 
-   
-🌐 GitHub Pages Hosting
-This project is live at:
-🔗https://om-singh-81.github.io/DICEE-THE-DECIDER/
-
+---
 
 📄 Description
 Dicee is a fun, two-player dice game built using HTML, CSS, and JavaScript. Click the "Refresh Me" button to roll the dice and see who wins—Player 1, Player 2, or it's a draw! With glowing dice visuals, playful fonts, and smooth animations, it's a stylish way to decide fate or settle friendly challenges.
