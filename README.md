@@ -16,16 +16,26 @@ Welcome to **Dicee**, a fun and interactive two-player dice game built with HTML
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used in which i practice:
 
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
 
+ The Document Object Model (DOM)
+
+ Selecting HTML Elements with Javascript
+ 
+ Manipulating and Changing Styles of HTML Elements with Javascript
+ 
+The Separation of Concerns: Structure vs Style vs Behaviour
+Text Manipulation and the Text Content Property
+ Manipulating HTML Element Attributes
+
 ---
 
 ## 📂 Folder Structure
-
+```bash
 dice-game/
 ├── images/
 │ ├── dice1.png
