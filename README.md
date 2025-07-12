@@ -6,12 +6,6 @@ Welcome to **Dicee**, a fun and interactive two-player dice game built with HTML
 
 ---
 
-## 📸 Preview
-
-![Dice Game Preview](https://om-singh-81.github.io/DICEE-THE-DECIDER/)
-
----
-
 ## 🚀 Features
 
 - 🎲 Random dice roll every time you refresh
