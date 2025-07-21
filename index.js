@@ -14,7 +14,7 @@ else{
 
 // Add a "Refresh Me" button to the page
 var refreshBtn = document.createElement("button");
-refreshBtn.textContent = "Refresh Me";
+refreshBtn.textContent = "ROLL IT";
 refreshBtn.style.marginTop = "20px";
 refreshBtn.onclick = function() {
     location.reload();
